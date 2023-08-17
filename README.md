@@ -5,7 +5,7 @@
 I wanted to explore how climate change has impacted temperature change and the number of disasters (outputs) over time. I also wanted to explore the relationship of how factors that influence climate change (inputs), such as CO2 emissions, affect temperature change and disasters. Finally, I analyzed countries’ inputs and outputs by region and income level to see how they contribute to and are affected by climate change.
 
 ### Data Tools Used
-I used Python in Jupyter Notebook to clean, transform, and analyze the data. I then exported csv files from Jupyter Notebook into Tableau, where I visualized the data. The Python code is in Github, and the Tableau dashboard link is [here]([url](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1))
+I used Python in Jupyter Notebook to clean, transform, and analyze the data. I then exported csv files from Jupyter Notebook into Tableau, where I visualized the data. The Python code is in Github, and the Tableau dashboard link is https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1
 
 
 ## Insights & Observations
@@ -42,23 +42,33 @@ The average temperature change and disasters per country in each income bracket 
 ### Cleaning & Transforming the Data with Python
 
 •	Used melt function to transpose years from many columns to 1 row for each datset, which varied in number of columns
+
 •	Cleaned string values by only gathering a word description, instead of 20+ words
+
 •	Selected which attributes are most important for analysis, and merged all files together
+
 •	Removed countries with at least one NaN value to not obscure the time series data
+
 •	Normalized data for each country to compare land changes over time
+
 •	Basic data cleaning / transformation (remove nulls, remove rows not in correct categories, divide population by 1M, etc.)
+
 •	Transposed various CO2 types into 1 column to visualized them altogether
 
 ### Data Visualization (Tableau)
 
-For all charts, I merged a dataset with region & income level of each country and created parameters & filters, so the viewer can filter on income level, region, & country in the dashboard. 
-The following charts were created
+For all charts, I merged a dataset with region & income level of each country and created parameters & filters, so the viewer can filter on income level, region, & country in the dashboard. The following charts were created. Here is the link to the Tableau Dashboard: https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1
 
 •	Avg country temperature change by Income level
+
 •	Average country Disasters by Income group
+
 •	CO2 pollution Per 1M people by Income Group
+
 •	Total CO2 Pollution by Type
+
 •	Map view of temperature change (takes average change from 2018-2022 and compares with 1961 baseline)
+
 •	Percentage change of Country’s Artificial Surfaces increase
 
 
