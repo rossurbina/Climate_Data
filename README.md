@@ -38,6 +38,27 @@ The average temperature change and disasters per country in each income bracket 
 
 ### Explore & Gather Data
 
+
 ### Cleaning & Transforming the Data with Python
 
+•	Used melt function to transpose years from many columns to 1 row for each datset, which varied in number of columns
+•	Cleaned string values by only gathering a word description, instead of 20+ words
+•	Selected which attributes are most important for analysis, and merged all files together
+•	Removed countries with at least one NaN value to not obscure the time series data
+•	Normalized data for each country to compare land changes over time
+•	Basic data cleaning / transformation (remove nulls, remove rows not in correct categories, divide population by 1M, etc.)
+•	Transposed various CO2 types into 1 column to visualized them altogether
+
 ### Data Visualization (Tableau)
+
+For all charts, I merged a dataset with region & income level of each country and created parameters & filters, so the viewer can filter on income level, region, & country in the dashboard. 
+The following charts were created
+
+•	Avg country temperature change by Income level
+•	Average country Disasters by Income group
+•	CO2 pollution Per 1M people by Income Group
+•	Total CO2 Pollution by Type
+•	Map view of temperature change (takes average change from 2018-2022 and compares with 1961 baseline)
+•	Percentage change of Country’s Artificial Surfaces increase
+
+
