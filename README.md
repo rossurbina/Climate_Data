@@ -67,7 +67,7 @@ I used 6 different databases for this analysis. Below are the links to each data
 
 ## Data Visualization (Tableau)
 
-For all charts, I merged a dataset with region & income level of each country and created parameters & filters, so the viewer can filter on income level, region, & country in the dashboard. The following charts were created. Here is the link to the Tableau Dashboard: https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1
+For all charts, I merged a dataset with region & income level of each country and created parameters & filters, so the viewer can filter on income level, region, & country in the dashboard. The following charts were created. Here is the link to the [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1)
 
 •	Avg country temperature change by Income level
 
