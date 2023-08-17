@@ -14,11 +14,9 @@ The average temperature change and disasters per country in each income bracket 
 
 ### Detailed Conclusions
 
-**Temperature Change Since 1960**
-	No material difference of temperature change based on either the income level or region; temperature rises are highly correlated
+**Temperature Change Since 1960:** No material difference of temperature change based on either the income level or region; temperature rises are highly correlated
 
-**Disasters Since 1980**
-	No significant differences of percentage increase of disasters based on either the income level or region
+**Disasters Since 1980:** No significant differences of percentage increase of disasters based on either the income level or region
 
 **CO2 Pollution Per capita Since 1900**
 **Income level:** CO2 emissions are directly related to the income group, with the high income having the highest emissions and low income having the lowest. The 1950s was the peak of CO2 emissions for high income countries with 20, which has since dropped to around 9. 
