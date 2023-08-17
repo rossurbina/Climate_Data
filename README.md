@@ -37,17 +37,17 @@ No significant differences of percentage increase of disasters based on either t
 ## Explore & Gather Data
 I used 6 different databases for this analysis. Below are the links to each data source: 
 
-•	Temperature change: https://climatedata.imf.org/datasets/4063314923d74187be9596f10d034914 
+•	[Temperature change (Climatedata.imf.org)](https://climatedata.imf.org/datasets/4063314923d74187be9596f10d034914)
 
-•	Disasters: https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821/explore 
+•	[Disasters (Climatedata.imf.org)](https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821/explore) 
 
-•	Forest & Carbon: https://climatedata.imf.org/datasets/66dad9817da847b385d3b2323ce1be57/explore 
+•	[Forest & Carbon (Climatedata.imf.org)](https://climatedata.imf.org/datasets/66dad9817da847b385d3b2323ce1be57/explore)
 
-•	Land: https://climatedata.imf.org/datasets/b1e6c0ea281f47b285addae0cbb28f4b/explore 
+•	[Land (Climatedata.imf.org) ](https://climatedata.imf.org/datasets/b1e6c0ea281f47b285addae0cbb28f4b/explore)
 
-•	CO2 Population: https://ourworldindata.org/co2-and-greenhouse-gas-emissions 
+•	[CO2 Population (ourworldindata.org)](https://ourworldindata.org/co2-and-greenhouse-gas-emissions )
 
-•	Country Demographic Information: https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html 
+•	[Country Demographic Information (datatopics.worldbank.org)](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html )
 
 ## Cleaning & Transforming the Data with Python
 
