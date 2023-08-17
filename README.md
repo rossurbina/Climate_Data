@@ -20,11 +20,11 @@ The average temperature change and disasters per country in each income bracket 
 
 **CO2 Pollution Per capita Since 1900**
 
-**Income level:** CO2 emissions are directly related to the income group, with the high income having the highest emissions and low income having the lowest. The 1950s was the peak of CO2 emissions for high income countries with 20, which has since dropped to around 9. 
+Income level: CO2 emissions are directly related to the income group, with the high income having the highest emissions and low income having the lowest. The 1950s was the peak of CO2 emissions for high income countries with 20, which has since dropped to around 9. 
 
-•	Upper middle income countries today have the same CO2 emissions as high income countries in 1940
+  •	Upper middle income countries today have the same CO2 emissions as high income countries in 1940
 
-•	Lower middle income countries today have 20% less emissions today than high income countries did in 1900
+  •	Lower middle income countries today have 20% less emissions today than high income countries did in 1900
 
 **Region:** North America has always emitted the most CO2 per capita, except from 1950-1965 when Latin America skyrocketed its emissions and 1991 in MENA (likely data error). Since then, Latin America’s emissions have reduced dramatically. 
 
