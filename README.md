@@ -32,7 +32,7 @@ No significant differences of percentage increase of disasters based on either t
 
 **Growth percentage:** From 1900 to 2021, the percentage growth each year from CO2 emissions was 2.48%
 
-**Percentage breakdown of CO2 type:** every type of CO2 has generally risen each year but at different growth rates. The biggest 3 contributors are coal (41%), oil (30%), and gas (22%)
+**Percentage breakdown of CO2 type:** every type of CO2 has generally risen each year but at different growth rates. The biggest 3 contributors in 2021 are coal (41%), oil (30%), and gas (22%)
 
 # Steps to Data Analytics Process
 
