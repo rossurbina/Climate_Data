@@ -5,8 +5,7 @@
 I wanted to explore how climate change has impacted temperature change and the number of disasters (outputs) over time. I also wanted to explore the relationship of how factors that influence climate change (inputs), such as CO2 emissions, affect temperature change and disasters. Finally, I analyzed countries’ inputs and outputs by region and income level to see how they contribute to and are affected by climate change.
 
 ### Data Tools Used
-I used Python in Jupyter Notebook to clean, transform, and analyze the data. I then exported csv files from Jupyter Notebook into Tableau, where I visualized the data. The Python code is in Github, and the Tableau dashboard link is https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1
-
+I used Python in Jupyter Notebook to clean, transform, and analyze the data. I then exported csv files from Jupyter Notebook into Tableau, where I visualized the data. Here is the link to the [Jupyter Notebook file](https://github.com/rossurbina/Climate_Data/blob/main/Climate_Data_Analysis.ipynb) and the [Tableau dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1)
 
 ## Insights & Observations
 ### Main Conclusion
