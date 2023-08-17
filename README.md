@@ -14,10 +14,10 @@ The average temperature change and disasters per country in each income bracket 
 ### Temperature Change Since 1960
 No material difference of temperature change based on either the income level or region; temperature rises are highly correlated
 
-### DISASTERS SINCE 1980
+### Disasters Since 1980
 No significant differences of percentage increase of disasters based on either the income level or region
 
-### CO2 POLLUTION PER CAPITA SINCE 1900
+### CO2 Pollution Per Capita Since 1900
 
   **Income level:** CO2 emissions are directly related to the income group, with the high income having the highest emissions and low income having the lowest. The 1950s was the peak of CO2 emissions for high income countries with 20, which has since dropped to around 9. 
   
@@ -27,7 +27,7 @@ No significant differences of percentage increase of disasters based on either t
   
   **Region:** North America has always emitted the most CO2 per capita, except from 1950-1965 when Latin America skyrocketed its emissions and 1991 in MENA (likely data error). Since then, Latin America’s emissions have reduced dramatically. 
 
-### TYPES OF CO2 SINCE 1900
+### Types of CO2 Since 1900
 
 **Growth percentage:** From 1900 to 2021, the percentage growth each year from CO2 emissions was 2.48%
 
@@ -81,5 +81,3 @@ For all charts, I merged a dataset with region & income level of each country an
 •	Map view of temperature change (takes average change from 2018-2022 and compares with 1961 baseline)
 
 •	Percentage change of Country’s Artificial Surfaces increase
-
-
